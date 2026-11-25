@@ -7,7 +7,8 @@ potify-first-cycle/
 │   ├── DIRECTORY.md
 │   ├── MARKETING.md
 │   ├── WHITEPAPER.md
-│   └── source.json
+│   ├── source.json
+│   └── upstream-comparison.json
 ├── public/
 │   ├── assets/
 │   │   ├── favicon.png

@@ -1,0 +1,12 @@
+{
+  "source_commit": "576b12201cc9acc31f1064f5cecbabb6a9abadbb",
+  "comparison": "Owner GitHub main vs hosted v38 source, before portable adaptations",
+  "byte_equal": {
+    "public/index.html": true,
+    "public/campaign.js": true,
+    "public/styles.css": true,
+    "public/assets/the-soil-remembers-grow-room.mp3": true,
+    "public/universe/assets/field-note.mp4": true,
+    "public/premiere/index.html": true
+  }
+}

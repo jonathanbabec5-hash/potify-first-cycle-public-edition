@@ -2,7 +2,7 @@
 
 **Question.** Let a reader open Book I, hear the Grow Room recording and find the premiere from a single edition.
 
-**Source and change.** potify-first-cycle at `7bc29685d6decd1f3d1bbbb0216f837bc7701a51`. Portable public edition at hosted v38. Book, recording, field film and paused premiere information retained. Wallet and sponsorship implementations remain in the original backup.
+**Source and change.** potify-first-cycle at `7bc29685d6decd1f3d1bbbb0216f837bc7701a51`. Portable public edition at hosted v38. Book, recording, field film and paused premiere information retained. Wallet and sponsorship implementations remain in the original backup. Private original potify-first-cycle GitHub main was directly verified at 576b12201cc9acc31f1064f5cecbabb6a9abadbb. docs/upstream-comparison.json distinguishes byte-equal files from a differing branch.
 
 **Observed result.** The edition rendered locally and navigation opened The opening pages. The package excludes live wallet operations.
 

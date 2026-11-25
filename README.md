@@ -28,7 +28,7 @@ node --check public/campaign.js
 
 ### Release scope
 
-The reviewed public package centers on reading and listening. NFT claims remain paused; wallet and sponsor operations stay in the recovery archive. potify-first-cycle at `7bc29685d6decd1f3d1bbbb0216f837bc7701a51`. Portable public edition at hosted v38. Book, recording, field film and paused premiere information retained. Wallet and sponsorship implementations remain in the original backup.
+The reviewed public package centers on reading and listening. NFT claims remain paused; wallet and sponsor operations stay in the recovery archive. potify-first-cycle at `7bc29685d6decd1f3d1bbbb0216f837bc7701a51`. Portable public edition at hosted v38. Book, recording, field film and paused premiere information retained. Wallet and sponsorship implementations remain in the original backup. Private original potify-first-cycle GitHub main was directly verified at 576b12201cc9acc31f1064f5cecbabb6a9abadbb. docs/upstream-comparison.json distinguishes byte-equal files from a differing branch.
 
 [Technical whitepaper](docs/WHITEPAPER.md) · [Marketing and sales plan](docs/MARKETING.md) · [Dated developer log](docs/BUILD-LOG.md)
 
