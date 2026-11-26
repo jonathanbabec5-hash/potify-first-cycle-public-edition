@@ -2,6 +2,14 @@
 
 [Complete repository directory tree](docs/DIRECTORY.md)
 
+## A book you can enter through a song
+
+Book I of The POTIFY Chronicle, *The Soil Remembers (Grow Room Version)* and the *From Seed to Smoke* premiere NFT belong to one First Cycle. Start with the Cultivator’s Note. Read a paragraph at your own pace, then put on the recording. The difference between the rhythm you imagined and the one you hear is a good reason to give both a little time.
+
+The [edition page](public/index.html) keeps the opening pages, Book I handoff and listening controls close together. The [song file](public/assets/the-soil-remembers-grow-room.mp3) identifies the Grow Room recording precisely. Reading and listening stand on their own. The 25 artworks are individual NFT designs; the last verified claim state was paused.
+
+[Open the free edition](https://potify-first-cycle.wile-e-coyot.chatgpt.site/#edition). On a phone, try moving from one paragraph to the track and back. Tell us which step lost your place, if any. For eligibility and recipient-signed claim status, use the [premiere page](https://potify-first-cycle.wile-e-coyot.chatgpt.site/premiere/).
+
 **Public edition frontend.** Let a reader open Book I, hear the Grow Room recording and find the premiere from a single edition.
 
 ### Setup and usage
