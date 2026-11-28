@@ -1,5 +1,13 @@
 # The First Cycle Edition
 
+## Find your way in
+
+| If you are… | Start here | Try this |
+| --- | --- | --- |
+| A reader | [Open the free edition](https://potify-first-cycle.wile-e-coyot.chatgpt.site/#edition) | Read the opening and return to a passage. |
+| A listener | [Find the Grow Room recording](public/assets/the-soil-remembers-grow-room.mp3) | Hear the song alongside the book. |
+| A developer | [Preview the frontend locally](#setup-and-usage) | Explore the reading and listening interface. NFT claims remain paused. |
+
 [Complete repository directory tree](docs/DIRECTORY.md)
 
 ## A book you can enter through a song
